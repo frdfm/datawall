@@ -1,4 +1,4 @@
-# Novel consistent hashing algorithm
+# Novel consistent hashing algorithms
 ## Datawall hash
 Datawall hash produces a full, ordered, unique list of replicas for each object. O(n). 
 ## Constant hash
